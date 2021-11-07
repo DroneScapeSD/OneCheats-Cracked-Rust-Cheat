@@ -1,7 +1,7 @@
 # OneCheats-Cracked-Rust-Cheat
 OneCheats v2.4 Cracked by 0xa872c19a9e2ac0f
 
-Coazy Uses Base64 to encrypt some of his code.
+Coazy Uses Base64 to encrypt some of his code. (Most code is Encrypted in Windows.Security.Cryptography)
 Use https://www.base64decode.org/ whenever you see a string in Convert.FromBase64String("InsertBase64Encryption");
 
 This Repository includes:
